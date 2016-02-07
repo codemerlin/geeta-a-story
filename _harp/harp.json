@@ -1,6 +1,6 @@
 {
   "globals": {
-    "baseUrl": "",
+    "baseUrl": "/geeta-a-story",
     "name": "Bootstrap boilerplate for Harp"
   }
 }
