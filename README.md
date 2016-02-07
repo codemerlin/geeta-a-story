@@ -1,4 +1,0 @@
-```
-harp compile _harp ./
-
-```
