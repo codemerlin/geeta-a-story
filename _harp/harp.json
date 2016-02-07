@@ -1,6 +1,9 @@
 {
-  "globals": {
-    "baseUrl": "/geeta-a-story",
-    "name": "Geeta, as a story"
-  }
+    "globals": {
+        "baseUrl": {
+            "development": "",
+            "production": "/geeta-a-story"
+        },
+        "name": "गीता, एक कहानी"
+    }
 }
